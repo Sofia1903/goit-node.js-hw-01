@@ -54,15 +54,11 @@
     "phone": "(748) 206-2688"
   },
   {
-    "id": "a1ba244c-217e-4f70-807b-0115a851e410",
-    "name": "Mango",
-    "email": "mango@gmail.com",
-    "phone": "322-22-22"
-  },
-  {
-    "id": "f11f8b8c-080a-48bc-a31c-25b925aa1c68",
-    "name": "Mango",
-    "email": "mango@gmail.com",
-    "phone": "322-22-22"
+    "id": "TtYQHyZ_N2Cenvaz9r8Cz",
+    "name": {
+      "name": "Mango",
+      "email": "mango@gmail.com",
+      "phone": "322-22-22"
+    }
   }
 ]
